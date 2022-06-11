@@ -1,13 +1,14 @@
 body{
-    background-image: url("/img/1200px-Computer-screen-code-glitch-animation-gif-background-free.gif");
-    width: 1040px;
-    background-repeat: no-repeat; 
+    background-image: url("/img/circuitos-fondo-digital-degradado-azul-rojo_23-2148821701.webp");
+    width: 1200px;
+    background-repeat: no-repeat;
+    background-attachment: fixed
     /* background: rgb(76, 1, 1) */;
     
 }
 h1{
     padding-top: 0%;
-    padding-left: 50%;
+    padding-left: 55%;
     color: rgb(239, 230, 230); ;
 }
 p{
@@ -18,8 +19,8 @@ p{
     color: transparent;
 }
 a{
-    color: rgb(222, 212, 212);
+    color: rgb(0, 0, 0);
 }
 img{
-    padding-left: 45% ;
+    padding-left: 50% ;
 }
