@@ -29,6 +29,7 @@ p{
     -webkit-text-stroke: 1px rgb(0, 0, 0);
     color: rgb(255, 255, 255);
     background-color: rgba(0, 0, 0, 0.66);
+    letter-spacing: 2px;
 }
 a{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
