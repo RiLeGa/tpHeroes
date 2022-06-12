@@ -14,17 +14,32 @@ h1{
     -webkit-text-stroke: 1px rgb(9, 8, 8);
     color: rgb(255, 255, 255); 
 }
+h2{
+    font-size: 45px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+    text-decoration-line: underline;
+    -webkit-text-stroke: 1px rgb(9, 8, 8);
+    color: rgb(255, 255, 255);
+
+}
 p{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-weight: 900;
+    font-weight: bolder;
     -webkit-text-stroke: 1px rgb(0, 0, 0);
     color: rgb(255, 255, 255);
-    /* block-size: auto; */
     background-color: rgba(0, 0, 0, 0.66);
 }
 a{
-    color: rgb(0, 0, 0);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: lighter;
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+    color: rgb(240, 127, 127);
 }
-img{
+img.primera{
+    float: left;
     border-color: rgb(183, 20, 20);
+    padding-top: 0.5%;
+    padding-right: 1%;
+    padding-left: 0.5%;
 }
