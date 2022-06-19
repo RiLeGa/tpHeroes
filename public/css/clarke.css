@@ -1,0 +1,12 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.home {
+    background-color: rgb(12, 12, 10);
+    background-image: url(../img/csm_ILONA_FOTA_3378bdad5b.jpg);
+    background-repeat: no-repeat;
+    background-position: right 0;
+    background-size: 100%;
+    text-transform: uppercase;
+}

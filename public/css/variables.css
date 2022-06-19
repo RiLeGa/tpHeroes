@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&family=Raleway:wght@300;400;600;700&family=Roboto:wght@300;400;500;700&display=swap');
+:root{
+    --fuenteTitulos: 'Raleway', sans-serif;
+    --fuenteSubtitulos: 'Open Sans', sans-serif;
+    --fuenteNav: 'Roboto', sans-serif;
+}
