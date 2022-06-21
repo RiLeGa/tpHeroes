@@ -1,3 +1,9 @@
 @import './general.css';
-@import './styleturing.css';
+@import './babbage.css';
+@import './berner-lee.css';
+@import './clarke.css';
+@import './hamilton.css';
+@import './hooper.css';
 @import './index.css';
+@import './lovelace.css';
+@import './turing.css';

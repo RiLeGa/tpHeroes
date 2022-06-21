@@ -1,6 +1,6 @@
 .home{
     background: rgb(108, 103, 103);
-    background-image: url(../img/maxresdefault1.jpg);
+    background-image: url(/img/NastyEasygoingBass-size_restricted.gif);
     background-size: 1700px ;
     background-repeat: no-repeat;
     background-attachment:fixed;
@@ -9,16 +9,17 @@ h1{
     margin: 0%;
     font-size: 1.2cm;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    padding-top: 0%;
+    margin-top: 5%;
     padding-left: 40%;
-    -webkit-text-stroke: 1px rgb(9, 8, 8);
-    color: rgb(255, 255, 255); 
+    -webkit-text-stroke: 2px rgb(9, 8, 8);
+    color: rgb(178, 21, 21); 
 }
 h2{
     font-size: 55px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-style: oblique;
-    text-decoration-line: underline;
+    font-family: var(--fuenteSubtitulos);
+    font-style: normal;
+    text-align: center;
+    text-decoration-line: none;
     -webkit-text-stroke: 1px rgb(9, 8, 8);
     color: rgb(124, 13, 13);
     
@@ -29,17 +30,31 @@ p{
     font-weight: bolder;
     -webkit-text-stroke: 1px rgb(0, 0, 0);
     font-size: 125%;
-    color: rgb(255, 255, 255);
-    background-color: rgba(0, 0, 0, 0.8);
+    color: rgb(237, 234, 225);
+    background-color: rgba(0, 0, 0, 0.452);
     letter-spacing: 2px;
     margin-left: 3%;
     margin-right: 3%;
 }
+.home nav ul{
+    padding: 0%;
+}
+.home nav ul li{
+    list-style: none;
+    background-color: bisque;
+    text-align: center;
+}
 a{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-weight: lighter;
+    font-size: 25px;
     -webkit-text-stroke: 1px rgb(0, 0, 0);
     color: rgb(240, 127, 127);
+    text-decoration: none;
+    padding-left: 3%;
+    padding-right: 3%;
+    list-style: none;
+    text-align: left;
 }
 img{
     float: left;

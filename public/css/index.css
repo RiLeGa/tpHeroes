@@ -14,13 +14,17 @@
     margin-left: 30px;
 }
 .home header nav ul li{
-    margin: 10px 0;
-    /* text-transform: uppercase; */
+    color: #6b6b6b;
+    font-size: 35px;
+    font-family: var(--fuenteNav);
+    text-align: center ;
+    margin: 20px;
+    text-transform: uppercase;
+    text-decoration: none;
+    list-style: none;
 }
 .home header nav ul li a{
-    color: #6b6b6b;
-    font-size: 25px;
-    font-family: var(--fuenteNav);
+    text-decoration: none;
 }
 .home main{
     margin-top: 120px;

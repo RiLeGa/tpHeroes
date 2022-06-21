@@ -4,9 +4,17 @@
 }
 .home {
     background-color: rgb(12, 12, 10);
-    background-image: url(../img/);
+    background-image: url(../img/Maquina-Bombe-disenada-por-Turing-3.jpg);
     background-repeat: no-repeat;
     background-position: right 0;
     background-size: 100%;
+    background-attachment: fixed;
     text-transform: uppercase;
+}
+.home h1{
+    font-family: var(--fuenteTitulos);
+    font-size: 70px;
+    text-align: center;
+    color: rgb(224, 78, 78);
+    -webkit-text-stroke: 1px rgb(9, 8, 8);
 }

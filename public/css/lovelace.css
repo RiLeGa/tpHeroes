@@ -1,0 +1,53 @@
+
+.home{
+    background-color: rgb(126, 42, 42);
+    background-image: url(/img/753-ada-lovelace-20220502-portada.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 1920px;
+}
+.home h1{
+    font-family: var(--fuenteTitulos);
+    text-align: center;
+    font-size: 50px;
+    color: bisque;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.home section p{
+    margin-top: 5%;
+    font-family: var(--fuenteSubtitulos);
+    font-size: 150%;
+    -webkit-text-stroke: 0px black;
+    color: aliceblue;
+    background-color: rgba(0, 0, 0, 0.552);
+}
+.home section img{
+    margin-left: 38%; ;
+    margin-right: auto;
+    width: 350px;
+    height: 400px;
+    border-radius: 15%
+    ;
+    
+}
+.home nav ul{
+    padding: 0%;
+}
+.home nav ul li{
+    list-style: none;
+    background-color: bisque;
+    text-align: center;
+}
+a{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: lighter;
+    font-size: 25px;
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+    color: rgb(240, 127, 127);
+    text-decoration: none;
+    padding-left: 3%;
+    padding-right: 3%;
+    list-style: none;
+    text-align: left;
+}
