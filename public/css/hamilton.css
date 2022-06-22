@@ -2,16 +2,19 @@
     background-image: url(../img/hamilton.gif);
     background-repeat: no-repeat;
     background-size: 100%;
-    background-attachment: fixed;
+    background-attachment: scroll;
 }
 .home h1{
     font-family: var(--fuenteTitulos);
+    margin-top: 0%;
     font-size: 70px;
-    text-align: left;
-    color: rgb(245, 237, 237);
-    -webkit-text-stroke: 2px rgb(84, 11, 11);
+    text-align: center;
+    color: rgb(71, 24, 24);
+    -webkit-text-stroke: 2px rgb(14, 8, 8);
 }
 .home nav ul{
+
+    margin: 0%;
     padding: 0%;
 }
 .home nav ul li{
@@ -30,4 +33,25 @@ a{
     padding-right: 3%;
     list-style: none;
     text-align: left;
+}
+.home section p{
+    margin-top: 15%;
+    margin-right: 60%;
+    font-family: var(--fuenteSubtitulos);
+    font-size: 150%;
+    -webkit-text-stroke: 0px rgb(0, 0, 0);
+    color: rgb(254, 254, 254);
+}
+.home article p{
+    text-align: left;
+    font-family: var(--fuenteSubtitulos);
+    font-size: 150%;
+    -webkit-text-stroke: 0px rgb(0, 0, 0);
+    color: rgb(254, 254, 254);
+}
+.home section p img{
+    float: right;
+    width: 250px;
+    height: 350px;
+    border-radius: 30%; 
 }
