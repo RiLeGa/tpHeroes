@@ -41,7 +41,7 @@ p{
 }
 .home nav ul li{
     list-style: none;
-    background-color: bisque;
+    background-color: rgb(184, 137, 80);
     text-align: center;
 }
 a{
@@ -49,7 +49,7 @@ a{
     font-weight: lighter;
     font-size: 25px;
     -webkit-text-stroke: 1px rgb(0, 0, 0);
-    color: rgb(240, 127, 127);
+    color: rgb(116, 109, 109);
     text-decoration: none;
     padding-left: 3%;
     padding-right: 3%;

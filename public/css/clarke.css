@@ -5,7 +5,6 @@
     background-position: right 0;
     background-size: 100%;
     background-attachment: fixed;
-    text-transform: uppercase;
 }
 .home h1{
     font-family: var(--fuenteTitulos);
@@ -19,7 +18,7 @@
 }
 .home nav ul li{
     list-style: none;
-    background-color: bisque;
+    background-color: rgb(5, 4, 3);
     text-align: center;
 }
 a{
@@ -27,7 +26,7 @@ a{
     font-weight: lighter;
     font-size: 25px;
     -webkit-text-stroke: 1px rgb(0, 0, 0);
-    color: rgb(240, 127, 127);
+    color: rgb(168, 158, 158);
     text-decoration: none;
     padding-left: 3%;
     padding-right: 3%;

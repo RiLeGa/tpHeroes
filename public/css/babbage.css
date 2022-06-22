@@ -16,7 +16,7 @@
 }
 .home nav ul li{
     list-style: none;
-    background-color: bisque;
+    background-color: rgb(167, 136, 98);
     text-align: center;
 }
 a{
@@ -24,7 +24,7 @@ a{
     font-weight: lighter;
     font-size: 25px;
     -webkit-text-stroke: 1px rgb(0, 0, 0);
-    color: rgb(240, 127, 127);
+    color: rgb(255, 255, 255);
     text-decoration: none;
     padding-left: 3%;
     padding-right: 3%;

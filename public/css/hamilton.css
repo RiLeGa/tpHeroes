@@ -1,0 +1,33 @@
+.home{
+    background-image: url(../img/hamilton.gif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+.home h1{
+    font-family: var(--fuenteTitulos);
+    font-size: 70px;
+    text-align: left;
+    color: rgb(245, 237, 237);
+    -webkit-text-stroke: 2px rgb(84, 11, 11);
+}
+.home nav ul{
+    padding: 0%;
+}
+.home nav ul li{
+    list-style: none;
+    background-color: rgb(210, 205, 205);
+    text-align: center;
+}
+a{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: lighter;
+    font-size: 25px;
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+    color: rgb(155, 188, 236);
+    text-decoration: none;
+    padding-left: 3%;
+    padding-right: 3%;
+    list-style: none;
+    text-align: left;
+}
